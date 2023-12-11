@@ -1,0 +1,2 @@
+# CalculadoraParalela
+ Escribe un programa en Java que calcule la suman de 100 elementos aleatorios en un arreglo utilizando programación paralela. Debes dividir el arreglo en varios subarreglos y asignar una tarea para calcular la suma de cada subarreglo en paralelo utilizando el número de hilos (threads) introducidos por el usuario. La impresión deberá mostrar el arreglo generado, los elementos sumados por cada hilo con su resultado y la suma final de los resultados de cada hilo.  Implementa Executor y las herramientas de sincronización condicional que consideres.  
